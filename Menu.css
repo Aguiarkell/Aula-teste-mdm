@@ -1,0 +1,19 @@
+.Menu
+{
+   background-color: black
+   color(srgb red green blue)
+
+}
+
+.MenuLista
+{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    font-size: 32px;
+    width: 800px;
+    margin: auto;
+    height: 50px;
+    align-items: center;
+
+}
